@@ -1,8 +1,50 @@
-# React + Vite
+# My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A collection showcasing the frontend projects I've worked on, highlighting my skills and expertise in web development.
 
-Currently, two official plugins are available:
+## 🚨 Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://sherifjrr.vercel.app/
+
+## 👨🏻‍💻 Tech Stack
+
+React, Pure CSS
+
+## 🚀 About Me
+
+Hello,
+I'M Mohammed Sherif Jr.
+
+Self-taught Frontend Developer
+
+I love crafting and creating things for the web using JavaScript generally and specifically React. My goal is to provide the most visually fascinating and user-oriented web applications.
+
+## 🖥️ Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Sherifjrr/portfolio
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)

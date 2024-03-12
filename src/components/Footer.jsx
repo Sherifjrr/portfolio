@@ -1,5 +1,5 @@
 import Resume from "../assets/CV.svg";
-import githubLogo from "../assets/github-circle-mono.png";
+import githubLogo from "../assets/github.svg";
 import linkedIn from "../assets/linkedin-mono.svg";
 import Twitter from "../assets/twitter-mono.svg";
 import mail from "../assets/sms-star.svg";
@@ -14,7 +14,7 @@ function Footer() {
       </p>
       <ul className="call-to-action">
         <li>
-          <a href="../assets/Mohammed Sherif's Resume.pdf" download>
+          <a href="../../public/Mohammed Sherif's Resume.pdf" download>
             My Resume
             <img src={Resume} alt="sherif's-resume" className="web-icon" />
           </a>
