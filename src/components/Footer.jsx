@@ -14,7 +14,7 @@ function Footer() {
       </p>
       <ul className="call-to-action">
         <li>
-          <a href="../../public/Mohammed Sherif's Resume.pdf" download>
+          <a href="/Mohammed Sherif's Resume.pdf" download>
             My Resume
             <img src={Resume} alt="sherif's-resume" className="web-icon" />
           </a>
