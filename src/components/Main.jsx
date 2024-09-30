@@ -1,5 +1,6 @@
 import Project from "./projectData";
 import data from "./data";
+
 function Main() {
   return (
     <main>

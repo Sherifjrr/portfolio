@@ -1,9 +1,22 @@
-import rickMorty from "../assets/rick-morty-project.jpg";
 import coronaArabia from "../assets/corona-arabia-project.jpg";
+import rickMorty from "../assets/rick-morty-project.jpg";
+import shopCo from "../assets/shop-co-project.png";
 
 const data = [
   {
     id: 1,
+    projectImg: shopCo,
+    projectAlt: "Shop Co Ecommerce app",
+    projectTitle: "Shop Co Ecommerce",
+    projectDescription:
+      "An e-commerce platform for electronic products . Shop Co offers a comprehensive shopping experience with user authentication, product search, add-to-cart functionality, detailed product pages, and filtering options.",
+    techStack:
+      "Tech stack: React - TypeScript - Tailwind CSS - Redux Toolkit - Vite",
+    linkLive: "https://shop-co-app.vercel.app/",
+    linkGithub: "https://github.com/Sherifjrr/ecommerce-app/",
+  },
+  {
+    id: 2,
     projectImg: rickMorty,
     projectAlt: "rick and morty app",
     projectTitle: "Rick and Morty Characters",
@@ -14,7 +27,7 @@ const data = [
     linkGithub: "https://github.com/Sherifjrr/rick-and-morty-characters-V2",
   },
   {
-    id: 2,
+    id: 3,
     projectImg: coronaArabia,
     projectAlt: "Corona Arabia app",
     projectTitle: "Corona Arabia",

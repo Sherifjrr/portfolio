@@ -1,4 +1,5 @@
 /* eslint-disable react/prop-types */
+
 import arrow from "../assets/arrow-outward.svg";
 
 function Project(props) {

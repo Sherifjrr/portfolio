@@ -1,7 +1,8 @@
 /* eslint-disable react/prop-types */
-import { useContext } from "react";
+
 import { ThemeContext } from "./themeProvider";
 import svg from "../assets/color-changer.svg";
+import { useContext } from "react";
 
 function Nav() {
   const { toggleTheme } = useContext(ThemeContext);
